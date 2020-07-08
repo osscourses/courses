@@ -8,8 +8,8 @@ Browse the list of courses below, or:
 
 ### Kafka
 
-- Apache Kafka Series - Learning Apache Kafka for Beginners [[Udemy]](https://www.udemy.com/course/apache-kafka/) - Foundational
-- Apache Kafka Series - Kafka Connect Hands-on Learning [[Udemy]](https://goo.gl/wLLLY9) - Intermediate
-- Apache Kafka Series - Kafka Streams for Data Processing [[Udemy]](https://goo.gl/bro314) - Intermediate
-- Apache Kafka Series - Confluent Schema Registry & REST Proxy [[Udemy]](https://goo.gl/XgWcVz) - Intermediate
-- Apache Kafka Series - Kafka Cluster Setup & Administration [[Udemy]](https://goo.gl/1uYAuU) - Advanced
+- [[Udemy]](https://www.udemy.com/course/apache-kafka/) Apache Kafka Series - Learning Apache Kafka for Beginners - Foundational
+- [[Udemy]](https://goo.gl/wLLLY9) Apache Kafka Series - Kafka Connect Hands-on Learning - Intermediate
+- [[Udemy]](https://goo.gl/bro314) Apache Kafka Series - Kafka Streams for Data Processing - Intermediate
+- [[Udemy]](https://goo.gl/XgWcVz) Apache Kafka Series - Confluent Schema Registry & REST Proxy - Intermediate
+- [[Udemy]](https://goo.gl/1uYAuU) Apache Kafka Series - Kafka Cluster Setup & Administration - Advanced
