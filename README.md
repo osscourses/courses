@@ -67,25 +67,42 @@ Browse the list of courses below, or:
  - **[Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)**  
   ![edX](https://img.shields.io/badge/-edX-808080)
   ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+
  - **[Introduction to Cloud Infrastructure Technologies ](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)**  
   ![edX](https://img.shields.io/badge/-edX-808080)
   ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+
  - **[Kubernetes Fundamentals](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
  ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
+
  - **[Kubernetes for Developers](https://training.linuxfoundation.org/training/kubernetes-for-developers/)**  
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
   ![Intermediate](https://img.shields.io/badge/-Intermediate-blue) 
  
 ### Linux
- - [Introduction to Linux ](https://www.edx.org/course/introduction-to-linux) ![edX](https://img.shields.io/badge/-edX-808080) ![Intermediate](https://img.shields.io/badge/-Foundational-green)
- - [A Beginner’s Guide to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/) ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Foundational-green)
- - [ Essentials of Linux System Administration](https://training.linuxfoundation.org/training/essentials-of-linux-system-administration/) ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Foundational-green) 
- - [Linux Security Fundamentals](https://training.linuxfoundation.org/training/linux-security-fundamentals/) ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
- - [ Linux Networking and Administration](https://training.linuxfoundation.org/training/linux-networking-and-administration/) ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Advanced-b19cd9)
- 
+ - **[Introduction to Linux ](https://www.edx.org/course/introduction-to-linux)**  
+  ![edX](https://img.shields.io/badge/-edX-808080)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
 
+ - **[A Beginner’s Guide to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)**  
+  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+
+ - **[Essentials of Linux System Administration](https://training.linuxfoundation.org/training/essentials-of-linux-system-administration/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
+ ![Intermediate](https://img.shields.io/badge/-Foundational-green) 
+
+ - **[Linux Security Fundamentals](https://training.linuxfoundation.org/training/linux-security-fundamentals/)**  
+  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
+  ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
+
+ - **[Linux Networking and Administration](https://training.linuxfoundation.org/training/linux-networking-and-administration/)**  
+  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
+  ![Intermediate](https://img.shields.io/badge/-Advanced-b19cd9)
  
 ### Prometheus
 
- - [Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/) ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
+ - **[Monitoring Systems and Services with Prometheus](https://training.linuxfoundation.org/training/monitoring-systems-and-services-with-prometheus-lfs241/)**  
+  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
+  ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
