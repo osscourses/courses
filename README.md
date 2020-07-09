@@ -60,7 +60,7 @@ Browse the list of courses below, or:
   ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
 - **[Apache Kafka Series - Kafka Cluster Setup & Administration ](https://goo.gl/1uYAuU)**  
   ![Udemy](https://img.shields.io/badge/-Udemy-808080)
-  ![Intermediate](https://img.shields.io/badge/-Advanced-purple)
+  ![Intermediate](https://img.shields.io/badge/-Advanced-7f00ff)
 
 ### Kubernetes
 
@@ -99,7 +99,7 @@ Browse the list of courses below, or:
 
  - **[Linux Networking and Administration](https://training.linuxfoundation.org/training/linux-networking-and-administration/)**  
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
-  ![Intermediate](https://img.shields.io/badge/-Advanced-purple)
+  ![Intermediate](https://img.shields.io/badge/-Advanced-7f00ff)
  
 ### Prometheus
 
