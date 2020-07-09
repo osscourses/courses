@@ -4,7 +4,6 @@ A place for online courses about open source software.
 
 Browse the list of courses below, or: 
  - [Submit a PR](https://github.com/osscourses/courses/pulls) to contribute some of your favorites. See our [contribution guide](CONTRIBUTING.md) to get started.
-  
  - [Write a review](https://github.com/osscourses/courses/issues) for a course you've taken.
 
 ### Fluentd
@@ -17,14 +16,14 @@ Browse the list of courses below, or:
 
  - **[Hyperledger Sawtooth for Application Developers](https://training.linuxfoundation.org/training/hyperledger-sawtooth-application-developers-lfs174/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
- ![Intermediate](https://img.shields.io/badge/-Foundational-green)  
+ ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)  
 
  - **[Becoming a Hyperledger Aries Developer](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
- ![Intermediate](https://img.shields.io/badge/-Foundational-green)  
+ ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)  
  - **[Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
- ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+ ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
  - **[Hyperledger Fabric Fundamentals ](https://training.linuxfoundation.org/training/hyperledger-fabric-fundamentals-lfd271/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
  ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)  
@@ -39,13 +38,13 @@ Browse the list of courses below, or:
 
  - **[Introduction to Jenkins](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
- ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+ ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
 ### Kafka
 
 - **[Apache Kafka Series - Learning Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)**  
   ![Udemy](https://img.shields.io/badge/-Udemy-808080)
-  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
 - **[Apache Kafka Series - Kafka Connect Hands-on Learning](https://goo.gl/wLLLY9)**  
   ![Udemy](https://img.shields.io/badge/-Udemy-808080) 
@@ -66,11 +65,11 @@ Browse the list of courses below, or:
 
  - **[Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)**  
   ![edX](https://img.shields.io/badge/-edX-808080)
-  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
  - **[Introduction to Cloud Infrastructure Technologies ](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)**  
   ![edX](https://img.shields.io/badge/-edX-808080)
-  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
  - **[Kubernetes Fundamentals](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
@@ -83,15 +82,15 @@ Browse the list of courses below, or:
 ### Linux
  - **[Introduction to Linux ](https://www.edx.org/course/introduction-to-linux)**  
   ![edX](https://img.shields.io/badge/-edX-808080)
-  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
  - **[A Beginner’s Guide to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)**  
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
-  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
+  ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B)
 
  - **[Essentials of Linux System Administration](https://training.linuxfoundation.org/training/essentials-of-linux-system-administration/)**  
  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
- ![Intermediate](https://img.shields.io/badge/-Foundational-green) 
+ ![Intermediate](https://img.shields.io/badge/-Foundational-00A86B) 
 
  - **[Linux Security Fundamentals](https://training.linuxfoundation.org/training/linux-security-fundamentals/)**  
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
