@@ -13,3 +13,13 @@ Browse the list of courses below, or:
 - [[Udemy]](https://goo.gl/bro314) Apache Kafka Series - Kafka Streams for Data Processing - Intermediate
 - [[Udemy]](https://goo.gl/XgWcVz) Apache Kafka Series - Confluent Schema Registry & REST Proxy - Intermediate
 - [[Udemy]](https://goo.gl/1uYAuU) Apache Kafka Series - Kafka Cluster Setup & Administration - Advanced
+
+### Kubernetes
+
+ - [[edX]](https://www.edx.org/course/introduction-to-kubernetes) Introduction to Kubernetes - Foundational
+ - [[edX]](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies) Introduction to Cloud Infrastructure Technologies - Foundational
+ - [[Linux Foundation]](https://training.linuxfoundation.org/training/kubernetes-fundamentals/) Kubernetes Fundamentals - Intermediate
+ - [[Linux Foundation]](https://training.linuxfoundation.org/training/kubernetes-for-developers/) Kubernetes for Developers - Intermediate
+ 
+### Linux
+ - [[edX]](https://www.edx.org/course/introduction-to-linux) Introduction to Linux - Foundational
