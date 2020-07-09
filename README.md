@@ -8,23 +8,23 @@ Browse the list of courses below, or:
 
 ### Fluentd
 
-  - [Cloud Native Logging with Fluentd](https://training.linuxfoundation.org/training/cloud-native-logging-with-fluentd-lfs242/)  
+**[Cloud Native Logging with Fluentd](https://training.linuxfoundation.org/training/cloud-native-logging-with-fluentd-lfs242/)**  
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
 
 ### Hyperledger
 
- - [Hyperledger Sawtooth for Application Developers](https://training.linuxfoundation.org/training/hyperledger-sawtooth-application-developers-lfs174/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
- - [Becoming a Hyperledger Aries Developer](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)  ![Intermediate](https://img.shields.io/badge/-Foundational-green)
- - [Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Foundational-green)
- - [Hyperledger Fabric Fundamentals ](https://training.linuxfoundation.org/training/hyperledger-fabric-fundamentals-lfd271/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
- - [ Hyperledger Sawtooth Administration](https://training.linuxfoundation.org/training/hyperledger-sawtooth-administration-lfs273/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
- - [Hyperledger Fabric Administration](https://training.linuxfoundation.org/training/hyperledger-fabric-administration-lfs272/)  
- ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
+**[Hyperledger Sawtooth for Application Developers](https://training.linuxfoundation.org/training/hyperledger-sawtooth-application-developers-lfs174/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)  ![Intermediate](https://img.shields.io/badge/-Foundational-green)  
+**[Becoming a Hyperledger Aries Developer](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)  ![Intermediate](https://img.shields.io/badge/-Foundational-green)  
+**[Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Foundational-green)  
+**[Hyperledger Fabric Fundamentals ](https://training.linuxfoundation.org/training/hyperledger-fabric-fundamentals-lfd271/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)  
+**[ Hyperledger Sawtooth Administration](https://training.linuxfoundation.org/training/hyperledger-sawtooth-administration-lfs273/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)  
+**[Hyperledger Fabric Administration](https://training.linuxfoundation.org/training/hyperledger-fabric-administration-lfs272/)**  
+ ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080) ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)  
  
 ### Jenkins
 
