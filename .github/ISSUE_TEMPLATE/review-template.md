@@ -14,6 +14,6 @@ Thank you for opening a review issue!  Please read the contribution guide before
 Course:
 From:
 
-Add your review by reacting to this issue with a :thumbs-up: or :thumbs-down:, or leave a comment to  add a written review.  
+Add your review by reacting to this issue with a :thumbsup: or :thumbsdown:, or leave a comment to  add a written review.  
 
 Please only review courses you've taken.
