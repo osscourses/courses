@@ -1,7 +1,7 @@
 ## Open Source Courses
 ![Built With Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4) [![GitHub license](https://img.shields.io/badge/License-MIT-00A86B)](https://github.com/osscourses/courses/blob/master/LICENSE)
 
-A place for online courses about open source software.
+Find online courses about open source software.
 
 Browse the list of courses below, or: 
  - [Submit a PR](https://github.com/osscourses/courses/pulls) to contribute some of your favorites. See our [contribution guide](CONTRIBUTING.md) to get started.
