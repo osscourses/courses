@@ -8,13 +8,12 @@ assignees: ''
 ---
 
 <!-- 
-Thank you for opening a review issue!  Please do not add a personal review on the issue.  Personal reviews should be added as a comment on the issue.  The issue should only contain information about the course and site.  
-
-Review issues should use the following style for their title: <course name> - <course site name> 
-e.g. Introduction to Jenkins - Linux Academy
+Thank you for opening a review issue!  Please read the contribution guide before opening a review issue.
 -->
-
+**Review**
 Course:
 From:
 
-Add your review by adding a reaction to this issue, or leave a comment to  add a written review.  Please only review courses you've taken.
+Add your review by reacting to this issue with a :thumbs-up: or :thumbs-down:, or leave a comment to  add a written review.  
+
+Please only review courses you've taken.
