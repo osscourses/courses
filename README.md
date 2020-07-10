@@ -13,7 +13,7 @@ Browse the list of courses below, or:
   ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
   ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
   ![Paid](https://img.shields.io/badge/-Paid-a88700)
-  [![Reviews](https://img.shields.io/badge/-Reviews-orange)](#1)
+  [![Reviews](https://img.shields.io/badge/-Reviews-orange)](https://github.com/osscourses/courses/issues/1)
 
 ### Hyperledger
 
