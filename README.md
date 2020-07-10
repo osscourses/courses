@@ -10,8 +10,8 @@ Browse the list of courses below, or:
 ### Fluentd
 
  - **[Cloud Native Logging with Fluentd](https://training.linuxfoundation.org/training/cloud-native-logging-with-fluentd-lfs242/)**  
-  ![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)
-  ![Intermediate](https://img.shields.io/badge/-Intermediate-blue)
+  [![Linux Foundation](https://img.shields.io/badge/-Linux_Foundation-808080)](https://github.com/osscourses/courses#fluentd)
+  [![Intermediate](https://img.shields.io/badge/-Intermediate-blue)](https://github.com/osscourses/courses#fluentd)
 
 ### Hyperledger
 
